@@ -1,3 +1,6 @@
 import streamlit as st
 
-st.write("hello")
+st.title("Retail Business Dashboard")
+
+st.header("Header")
+st.write("Message")
